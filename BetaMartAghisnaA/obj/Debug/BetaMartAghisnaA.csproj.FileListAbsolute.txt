@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\bin\Debug\BetaMartAghisnaA.exe.config
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\bin\Debug\BetaMartAghisnaA.exe
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\bin\Debug\BetaMartAghisnaA.pdb
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\obj\Debug\BetaMartAghisnaA.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\obj\Debug\BetaMartAghisnaA.Form1.resources
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\obj\Debug\BetaMartAghisnaA.Properties.Resources.resources
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\obj\Debug\BetaMartAghisnaA.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\obj\Debug\BetaMartAghisnaA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\obj\Debug\BetaMartAghisnaA.exe
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\obj\Debug\BetaMartAghisnaA.pdb
+C:\Users\HP\source\repos\BetaMartAghisnaA\BetaMartAghisnaA\bin\Debug\DBBetaMart.accdb
